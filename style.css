@@ -1,9 +1,15 @@
 body, html{
     margin: 0;
     padding: 0;
-    color: #212529;
     background-color: rgb(255, 255, 255);
     width: 350px;
+}
+*{
+    color: #212529;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans",
+    sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
 }
 #container {
     width: 100%;
