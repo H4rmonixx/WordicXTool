@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Wordic ExTool",
+  "name": "Wordic XTool",
   "version": "1.0",
-  "description": "Extracts words from Quizlett to CSV",
+  "description": "Scrape vocabulary sets to CSV",
   "permissions": ["activeTab", "scripting"],
   "icons": {
     "16": "logo16.png",

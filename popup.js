@@ -79,6 +79,8 @@ function clickLoadMore() {
 
   });
 }
+
+statusDiv.innerHTML = `Loading terms<span class="spinner"></span>`;
 clickLoadMore();
 
 
